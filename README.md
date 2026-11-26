@@ -1,5 +1,5 @@
 ## Hi 👋, I am Nathan Luke Wijaya
-I am an Indonesian DVC engineering transfer aiming for Robotics/Mechanical & Electrical Engineering and U.S. robotics industry roles.
+<p align="center">I am an Indonesian DVC engineering transfer aiming for Robotics/Mechanical & Electrical Engineering and U.S. robotics industry roles.</p>
 
 <!--
 **NLWgpc/NLWgpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
